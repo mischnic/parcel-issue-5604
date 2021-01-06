@@ -1,0 +1,6 @@
+{
+  "name": "b",
+  "version": "0.0.0",
+  "source": "src/index.js",
+  "main": "lib/index.js"
+}

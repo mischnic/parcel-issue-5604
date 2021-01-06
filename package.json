@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "a",
+    "b"
+  ],
+  "dependencies": {
+    "@babel/core": "^7.12.10"
+  }
+}

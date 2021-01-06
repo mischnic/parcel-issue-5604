@@ -1,0 +1,7 @@
+{
+	"name": "a",
+	"version": "0.0.0",
+	"scripts": {
+		"build": "parcel2 build index.js --no-cache"
+	}
+}
